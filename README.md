@@ -1,13 +1,13 @@
 # Chaldea-Dataset
 
-This is a repository to publish dataset of [Chaldea](https://github.com/narumishi/chaldea) app.
+This is a repository to publish dataset of [Chaldea](https://github.com/chaldea-center/chaldea) app.
 
 If you want to install Chaldea app and your platform is:
-- Android & Windows x64: download latest build at [Chaldea-Release](https://github.com/narumishi/chaldea/releases) page
+- Android & Windows x64: download latest build at [Chaldea-Release](https://github.com/chaldea-center/chaldea/releases) page
 - iOS & macOS: search "Chaldea" in App Store
 
 ## Download
-Go to [Release](https://github.com/narumishi/chaldea-dataset/releases) page to download assets.
+Go to [Release](https://github.com/chaldea-center/chaldea-dataset/releases) page to download assets.
 
 Here, we provide two kinds of assets:
 - **dataset.zip**: contains text and image resources.
