@@ -10,8 +10,8 @@ If you want to install Chaldea app and your platform is:
 Go to [Release](https://github.com/chaldea-center/chaldea-dataset/releases) page to download assets.
 
 Here, we provide two kinds of assets:
-- **dataset.zip**: contains text and image resources.
-- **dataset-text.zip**: contain text resources only.
+- **dataset-text.zip**: contains text resources only.
+- **dataset-icon.zip**: contains icon resources only.
 
 Warning: images/icons update infrequently and the file size will be extremely larger if images included, 
 so we sometimes **only** provide the **text-only** version.
